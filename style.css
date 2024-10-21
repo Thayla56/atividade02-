@@ -2,10 +2,11 @@
 
 
 :root {
+    background-color: #df8ffa;
     --cor-principal: #6E859F;
     --cor-secundaria: #284260;
     --cor-destaque: #C92BFC;
-    background-color: #df8ffa;
+    
 }
 
 body {
